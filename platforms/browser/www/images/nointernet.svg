@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="512" height="512" fill="#5f5f5f"/>
+    </clipPath>
+    <clipPath id="clip-custom_1">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <rect width="512" height="512" fill="#fff"/>
+    <g id="excla-seg_img_" data-name="excla-seg img " clip-path="url(#clip-path)">
+      <g id="noun_cloud_warning_message_1676739" data-name="noun_cloud warning message_1676739" transform="translate(7.217 40.968)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="24" height="65.76" transform="translate(236.431 257.813)" fill="#5f5f5f"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="24" height="24" transform="translate(236.431 333.822)" fill="#5f5f5f"/>
+        <path id="Path_5" data-name="Path 5" d="M373.194,95.3a114.16,114.16,0,0,0-24.978,2.775A123.762,123.762,0,0,0,107.444,125.3a101.273,101.273,0,1,0,3.225,202.52h23.4L94.017,395.327a15,15,0,0,0,12.9,22.5H391.946a15,15,0,0,0,12.9-22.5L364.793,327.82h8.4a116.262,116.262,0,1,0,0-232.523ZM133.171,387.826,249.432,192.807,365.544,387.826Zm240.023-90.009H346.942L262.334,155.3a15,15,0,0,0-25.8,0L151.923,297.818H110.669a71.257,71.257,0,0,1,0-142.514,72.233,72.233,0,0,1,9.526.75l17.7,2.325-.975-20.027v-1.8A93.684,93.684,0,0,1,322.789,119.6l3.225,17.627,16.8-6.3a86.183,86.183,0,1,1,30.378,166.891Z" fill="#5f5f5f" stroke="#fff" stroke-linejoin="round" stroke-width="14"/>
+      </g>
+    </g>
+  </g>
+</svg>
